@@ -5,6 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [nextjs]
 published: true
 published_at: 2024-12-17 09:00
+publication_name: "ka_projects"
 ---
 
 ## 記事の目的
