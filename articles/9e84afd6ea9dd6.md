@@ -78,7 +78,7 @@ const MyComponent: FC<Props> = ({ title, children }) => {
 ```
 
 - **`React.FC`**（Functional Component）は、React コンポーネントであることを明示的に主張するための型定義。<>で指定したものが props の型定義, 戻り値は React.ReactElement または null になる。
-- 「React 18 以降はやや非推奨」の流れがあるらしい。明示的に書くのが最近のブームらしく（？）、将来的に非推奨になるかもしれない。
+- 「React 18 以降はやや非推奨」の流れがあるらしい。明示的に書くのが最近のブームらしく（？）、将来的に非推奨になるかもしれないので、別にあえて使う必要ない気がする。
 
 ### 3-2. 関数の戻り値に `React.JSX.Element` / `ReactNode` などを指定
 
