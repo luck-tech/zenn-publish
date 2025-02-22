@@ -4,6 +4,7 @@ emoji: "🙌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [react, typescript]
 published: true
+publication_name: "ka_projects"
 ---
 
 ## 1. 基本的な型定義
