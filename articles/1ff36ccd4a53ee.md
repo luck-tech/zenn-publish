@@ -4,7 +4,6 @@ emoji: "📦"
 type: "tech"
 topics: ["nodejs", "npm", "yarn", "pnpm", "bun"]
 published: true
-published_at: 2025-04-30 09:00
 publication_name: "ka_projects"
 ---
 
