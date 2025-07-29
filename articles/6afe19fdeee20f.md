@@ -3,7 +3,8 @@ title: "Next.js: 開発 Tips のハッカソンメモ"
 emoji: "📌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [nextjs, font, dotenv]
-published: false
+published: true
+publication_name: "ka_projects"
 ---
 
 ## はじめに
